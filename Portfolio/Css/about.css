@@ -1,0 +1,50 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* styling the image */
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  margin-top: 20px;
+}
+/*Styling the header  */
+.main {
+  margin-buttom: 20px;
+}
+/*Styling the body  */
+body {
+  color: white;
+  background-image: url(../Images/Coolbg.png);
+  font-family: arial, sanseriff;
+}
+h3 {
+  font-variant: small-caps;
+  text-transform: capitalize;
+}
+
+/* Styling the link */
+a:link {
+  color: white;
+  font-size: 25px;
+}
+
+a:visited {
+  color: #daf745;
+  font-size: 25px;
+}
+
+a:hover {
+  color: #ff7070;
+  font-size: 40px;
+  box-shadow: 0 0 3px 4px white;
+}
+
+a:active {
+  color: white;
+  font-size: 25px;
+  text-decoration: underline;
+}
