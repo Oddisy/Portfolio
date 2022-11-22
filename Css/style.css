@@ -24,6 +24,7 @@ nav {
   margin-top: 20px;
   padding: 16px;
   background-color: black;
+  width: 50%;
 }
 .uls {
   list-style-type: none;
